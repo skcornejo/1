@@ -6,7 +6,7 @@ suite('Unit Tests', function () {
     // #1
     test('#isNull, #isNotNull', function () {
       assert.isNull;
-      assert.isNotNull;
+      assert.isNull;
     });
     // #2
     test('#isDefined, #isUndefined', function () {
